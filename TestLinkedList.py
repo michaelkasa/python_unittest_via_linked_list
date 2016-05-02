@@ -69,9 +69,5 @@ class TestLinkedList(unittest.TestCase):
 			l.append(35)
 			l.insert(40,4) 
 
-
-
 if __name__ == '__main__':
-	print 'hi there'
 	unittest.main()
-
